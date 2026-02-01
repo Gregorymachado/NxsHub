@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            background: radial-gradient(circle at center, #1a1a1a 0%, #050505 100%);
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #auth-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #0a0a0a;
+            z-index: 9999999;
+            display: none !important;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .login-box {
+            background: #111;
+            padding: 40px;
+            border-radius: 15px;
+            border: 1px solid #4285f4;
+            box-shadow: 0 0 30px rgba(66,133,244,0.2);
+            width: 350px;
+            text-align: center;
+        }
+
+        .login-box h2 {
+            color: #4285f4;
+            margin-bottom: 25px;
+            letter-spacing: 2px;
+            font-size: 24px;
+        }
+
+        .login-box input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 15px;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            color: white;
+            border-radius: 5px;
+            outline: none;
+            box-sizing: border-box;
+        }
+
+        .login-box button {
+            width: 100%;
+            padding: 12px;
+            background: #4285f4;
+            border: none;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            transition: 0.3s;
+        }
+
+        .login-box button:hover {
+            background: #357ae8;
+            box-shadow: 0 0 15px rgba(66,133,244,0.4);
+        }
+
+        .login-box .btn-reg {
+            background: transparent;
+            border: 1px solid #444;
+            color: #888;
+            font-size: 11px;
+            padding: 8px;
+        }
+
+        .status-msg {
+            font-size: 12px;
+            margin-top: 15px;
+            min-height: 18px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .main-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transform: translateY(-50px);
+            width: 100%;
+            overflow-y: auto;
+            max-height: 100vh;
+        }
+
+        h1 {
+            font-size: 52px;
+            margin-bottom: 5px;
+            text-shadow: 0 0 20px rgba(66, 133, 244, 0.3);
+            letter-spacing: 3px;
+        }
+
+        .hint {
+            color: #4285f4;
+            font-size: 13px;
+            font-weight: bold;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 0.4; }
+            50% { opacity: 1; }
+            100% { opacity: 0.4; }
+        }
+
+        .dynamic-section {
+            width: 90%;
+            max-width: 1000px;
+            margin-bottom: 25px;
+            display: none;
+        }
+
+        .section-title {
+            color: #4285f4;
+            font-size: 12px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            text-align: left;
+            border-left: 3px solid #4285f4;
+            padding-left: 10px;
+            text-transform: uppercase;
+        }
+
+        .horizontal-list {
+            display: flex;
+            gap: 15px;
+            overflow-x: auto;
+            padding: 10px 5px;
+        }
+
+        .horizontal-list::-webkit-scrollbar { height: 4px; }
+        .horizontal-list::-webkit-scrollbar-thumb { background: #333; border-radius: 10px; }
+
+        .mini-card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid #333;
+            padding: 12px;
+            border-radius: 12px;
+            min-width: 160px;
+            cursor: pointer;
+            transition: 0.3s;
+            flex-shrink: 0;
+        }
+
+        .mini-card:hover { 
+            background: rgba(66, 133, 244, 0.2); 
+            border-color: #4285f4; 
+            transform: translateY(-3px); 
+        }
+
+        .mini-card span { 
+            font-size: 11px; 
+            font-weight: bold; 
+            display: block; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            white-space: nowrap; 
+        }
+
+        .mini-card .time-info {
+            font-size: 9px;
+            color: #888;
+            margin-top: 5px;
+        }
+
+        .container {
+            display: flex;
+            gap: 35px;
+            padding: 20px;
+        }
+
+        .card {
+            width: 190px;
+            height: 240px;
+            border-radius: 24px;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            border: 2px solid rgba(255,255,255,0.05);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            background: rgba(255,255,255,0.02);
+        }
+
+        .card:hover {
+            transform: translateY(-15px) scale(1.05);
+            border-color: #4285f4;
+            box-shadow: 0 15px 40px rgba(0,0,0,0.8), 0 0 20px rgba(66, 133, 244, 0.2);
+            background: rgba(255,255,255,0.05);
+        }
+
+        .card img {
+            width: 75px;
+            height: 75px;
+            object-fit: contain;
+            margin-bottom: 25px;
+            filter: drop-shadow(0 5px 10px rgba(0,0,0,0.5));
+            pointer-events: none;
+        }
+
+        .card span {
+            font-weight: 800;
+            font-size: 16px;
+            letter-spacing: 1px;
+            pointer-events: none;
+        }
+
+        .youtube { border-bottom: 4px solid #c80000; }
+        .banime  { border-bottom: 4px solid #00a2e8; }
+        .netflix { border-bottom: 4px solid #e50914; }
+        .gemini  { border-bottom: 4px solid #8e44ad; }
+        .google  { border-bottom: 4px solid #34a853; }
+
+        .footer {
+            position: absolute;
+            bottom: 20px;
+            color: rgba(255,255,255,0.2);
+            font-size: 11px;
+            letter-spacing: 1px;
+        }
+
+        #nxs-overlay {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(0,0,0,0.95);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            z-index: 2147483647;
+            border: 2px solid #4285f4;
+            box-shadow: 0 0 20px rgba(0,0,0,0.8);
+            pointer-events: none;
+            transition: opacity 0.5s;
+            opacity: 0;
+            line-height: 1.6;
+        }
+
+        #update-modal {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 100000;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            background: #1a1a1a;
+            padding: 40px;
+            border-radius: 20px;
+            border: 2px solid #4285f4;
+            text-align: center;
+            box-shadow: 0 0 30px rgba(66, 133, 244, 0.4);
+        }
+
+        .modal-content h2 { color: #4285f4; margin-bottom: 10px; }
+        
+        .btn-update {
+            background: #4285f4;
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 30px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.3s;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="auth-screen">
+        <div id="box-login" class="login-box">
+            <h2>NXS LOGIN</h2>
+            <input type="text" id="login-user" placeholder="Usuário">
+            <input type="password" id="login-pass" placeholder="Senha">
+            <button onclick="handleAuth('login')">ENTRAR</button>
+            <div style="display:flex; gap:5px; width:100%;">
+                <button class="btn-reg" style="flex:1;" onclick="showTab('register')">CRIAR CONTA</button>
+                <button class="btn-reg" style="flex:1;" onclick="showTab('recover')">ESQUECI SENHA</button>
+            </div>
+            <p id="auth-status-login" class="status-msg"></p>
+        </div>
+
+        <div id="box-register" class="login-box" style="display:none;">
+            <h2>NOVA CONTA</h2>
+            <input type="text" id="reg-user" placeholder="Escolha um Usuário">
+            <input type="password" id="reg-pass" placeholder="Senha Forte">
+            <input type="text" id="reg-recovery" placeholder="Frase de Recuperação">
+            <button onclick="handleAuth('register')">FINALIZAR CADASTRO</button>
+            <button class="btn-reg" style="width:100%;" onclick="showTab('login')">VOLTAR AO LOGIN</button>
+            <p id="auth-status-reg" class="status-msg"></p>
+        </div>
+
+        <div id="box-recover" class="login-box" style="display:none;">
+            <h2>RECUPERAR</h2>
+            <p style="font-size:10px; color:#888; margin-bottom:10px;">Use a frase secreta criada no registro.</p>
+            <input type="text" id="rec-user" placeholder="Usuário">
+            <input type="text" id="rec-phrase" placeholder="Sua Frase de Recuperação">
+            <input type="password" id="rec-newpass" placeholder="Nova Senha">
+            <button onclick="handleAuth('recover')">REDEFINIR SENHA</button>
+            <button class="btn-reg" style="width:100%;" onclick="showTab('login')">VOLTAR AO LOGIN</button>
+            <p id="auth-status-rec" class="status-msg"></p>
+        </div>
+    </div>
+
+    <div id="update-modal">
+        <div class="modal-content">
+            <h2>🚀 Atualização Disponível</h2>
+            <p>Uma nova versão do NxsHub foi encontrada.</p>
+            <button class="btn-update" id="update-btn" onclick="startUpdate()">ATUALIZAR E REINICIAR</button>
+        </div>
+    </div>
+
+    <div class="main-wrapper">
+        <h1>NXSHUB</h1>
+        <div class="hint">TAB: Controles | F: Tela Cheia | V: Ver Depois</div>
+
+        <div id="section-history" class="dynamic-section">
+            <div class="section-title">Continuar Assistindo</div>
+            <div id="history-list" class="horizontal-list"></div>
+        </div>
+
+        <div id="section-watchlist" class="dynamic-section">
+            <div class="section-title">Para Ver Depois</div>
+            <div id="watchlist-list" class="horizontal-list"></div>
+        </div>
+
+        <div class="container">
+            <div class="card youtube" onclick="launch('https://www.youtube.com')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png">
+                <span>YOUTUBE</span>
+            </div>
+
+            <div class="card banime" onclick="launch('https://betteranime.io/home/')">
+                <img src="https://i.ibb.co/zTBpXdH8/unnamed.webp">
+                <span>B-ANIME</span>
+            </div>
+
+            <div class="card netflix" onclick="launch('https://www.netflix.com')">
+                <img src="https://www.vectorlogo.zone/logos/netflix/netflix-ar21.svg">
+                <span>NETFLIX</span>
+            </div>
+
+            <div class="card gemini" onclick="launch('https://gemini.google.com')">
+                <img src="https://www.vectorlogo.zone/logos/gemini/gemini-ar21~bgwhite.svg">
+                <span>GEMINI</span>
+            </div>
+
+            <div class="card google" onclick="launch('https://google.com')">
+                <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png">
+                <span>GOOGLE</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">NXSHUB • BY GREGORY MACHADO • <span id="local-version">v1.1</span></div>
+
+    <div id="nxs-overlay">
+        <strong style="color:#4285f4; font-size: 18px;">NXS CONTROLS</strong>
+        <hr style="border:0; border-top:1px solid #444; margin:10px 0;">
+        F: Tela Cheia Total<br>
+        ESC: Menu Inicial<br>
+        R: Recarregar Página<br>
+        ESPAÇO: Play/Pause<br>
+        M: Mutar Áudio<br>
+        B: Recuperar Buffer<br>
+        V: Adicionar ao "Ver Depois"<br>
+        TAB: Ver Atalhos
+    </div>
+
+    <script>
+        const NXS_VERSION = "1.1"; 
+        const GITHUB_USER = "Gregorymachado"; 
+        const GITHUB_TOKEN = "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";
+
+        function showTab(tab) {
+            document.getElementById('box-login').style.display = 'none';
+            document.getElementById('box-register').style.display = 'none';
+            document.getElementById('box-recover').style.display = 'none';
+            document.getElementById('box-' + tab).style.display = 'block';
+            document.querySelectorAll('.status-msg').forEach(el => {
+                el.innerText = "";
+                el.style.color = "white";
+            });
+        }
+
+        async function hashPassword(password) {
+            const msgUint8 = new TextEncoder().encode(password);
+            const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        }
+
+        async function handleAuth(action) {
+            let user, pass, extra = "", statusId;
+            
+            if (action === 'login') {
+                user = document.getElementById('login-user').value.trim();
+                pass = document.getElementById('login-pass').value.trim();
+                statusId = 'auth-status-login';
+            } else if (action === 'register') {
+                user = document.getElementById('reg-user').value.trim();
+                pass = document.getElementById('reg-pass').value.trim();
+                extra = document.getElementById('reg-recovery').value.trim();
+                statusId = 'auth-status-reg';
+            } else if (action === 'recover') {
+                user = document.getElementById('rec-user').value.trim();
+                extra = document.getElementById('rec-phrase').value.trim();
+                pass = document.getElementById('rec-newpass').value.trim();
+                statusId = 'auth-status-rec';
+            }
+
+            const status = document.getElementById(statusId);
+            if (!user || !pass || (action !== 'login' && !extra)) {
+                status.innerText = "Preencha todos os campos!";
+                status.style.color = "#ff4444";
+                return;
+            }
+
+            status.style.color = "#4285f4";
+            status.innerText = "Processando...";
+
+            const hashedPass = await hashPassword(pass);
+            const hashedExtra = (action !== 'login') ? await hashPassword(extra) : "";
+
+            if (window.chrome && window.chrome.webview) {
+                window.chrome.webview.postMessage(JSON.stringify({
+                    type: "auth",
+                    action: action,
+                    username: user,
+                    password: hashedPass,
+                    recovery: hashedExtra
+                }));
+            }
+        }
+
+        function formatTime(seconds) {
+            if (!seconds) return "00:00";
+            const h = Math.floor(seconds / 3600);
+            const m = Math.floor((seconds % 3600) / 60);
+            const s = Math.floor(seconds % 60);
+            return (h > 0 ? h + ":" : "") + m.toString().padStart(2, '0') + ":" + s.toString().padStart(2, '0');
+        }
+
+        function renderDynamicUI(data) {
+            // Histórico (Continuar Assistindo)
+            const historyList = document.getElementById('history-list');
+            const historySection = document.getElementById('section-history');
+            
+            if (data.history && Object.keys(data.history).length > 0) {
+                historySection.style.display = 'block';
+                historyList.innerHTML = '';
+                Object.entries(data.history).forEach(([title, info]) => {
+                    const card = document.createElement('div');
+                    card.className = 'mini-card';
+                    card.onclick = () => launch(info.url);
+                    card.innerHTML = `<span>${title}</span><div class="time-info">Parou em: ${formatTime(info.time)}</div>`;
+                    historyList.appendChild(card);
+                });
+            } else {
+                historySection.style.display = 'none';
+            }
+
+            // Watchlist (Para Ver Depois)
+            const watchList = document.getElementById('watchlist-list');
+            const watchSection = document.getElementById('section-watchlist');
+
+            if (data.watchlist && data.watchlist.length > 0) {
+                watchSection.style.display = 'block';
+                watchList.innerHTML = '';
+                data.watchlist.forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'mini-card';
+                    card.onclick = () => launch(item.url);
+                    card.innerHTML = `<span>${item.title}</span>`;
+                    watchList.appendChild(card);
+                });
+            } else {
+                watchSection.style.display = 'none';
+            }
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                const activeBox = ['login', 'register', 'recover'].find(id => 
+                    document.getElementById('box-' + id).style.display !== 'none'
+                );
+                if (activeBox) handleAuth(activeBox);
+            }
+        });
+
+        window.goHome = function() {
+            if (!window.location.href.includes('index.html')) {
+                window.location.href = 'index.html?logged=true';
+            } else {
+                document.getElementById('auth-screen').style.display = 'none';
+            }
+        };
+
+        window.showNxsControls = function() {
+            const authScreen = document.getElementById('auth-screen');
+            if (authScreen && authScreen.style.display === 'none') {
+                const el = document.getElementById('nxs-overlay');
+                if (el) {
+                    el.style.opacity = '1';
+                    setTimeout(() => { el.style.opacity = '0'; }, 5000);
+                }
+            }
+        };
+
+        const params = new URLSearchParams(window.location.search);
+        if (params.get('logged') === 'true') {
+            document.getElementById('auth-screen').style.display = 'none';
+            if (window.chrome && window.chrome.webview) {
+                window.chrome.webview.postMessage(JSON.stringify({type: "auth_state", value: true}));
+            }
+        }
+
+        if (window.chrome && window.chrome.webview) {
+            window.chrome.webview.addEventListener('message', event => {
+                const data = event.data;
+                const statusLogin = document.getElementById('auth-status-login');
+                const statusReg = document.getElementById('auth-status-reg');
+                const statusRec = document.getElementById('auth-status-rec');
+
+                if (data === "auth_success") {
+                    if(statusLogin) {
+                        statusLogin.innerText = "Acesso concedido!";
+                        statusLogin.style.color = "#00ff00";
+                    }
+                    setTimeout(() => { document.getElementById('auth-screen').style.display = 'none'; }, 800);
+                } else if (data === "auth_failed") {
+                    const activeMsg = document.querySelector('.login-box:not([style*="display: none"]) .status-msg');
+                    if(activeMsg) {
+                        activeMsg.innerText = "Dados incorretos!";
+                        activeMsg.style.color = "#ff4444";
+                    }
+                } else if (data === "user_exists") {
+                    if(statusReg) {
+                        statusReg.innerText = "Usuário já existe!";
+                        statusReg.style.color = "#ff4444";
+                    }
+                } else if (data === "reg_success") {
+                    if(statusReg) {
+                        statusReg.innerText = "Conta criada!";
+                        statusReg.style.color = "#00ff00";
+                    }
+                    setTimeout(() => { showTab('login'); }, 1500);
+                } else {
+                    // Trata dados de interface (JSON do Sync)
+                    try {
+                        const json = JSON.parse(data);
+                        if (json.type === "ui_update") {
+                            renderDynamicUI(json.data);
+                        }
+                    } catch(e) {}
+                }
+            });
+        }
+
+        function launch(url) {
+            if (window.chrome && window.chrome.webview) {
+                window.chrome.webview.postMessage(url);
+            }
+        }
+
+        function startUpdate() {
+            const btn = document.getElementById('update-btn');
+            btn.innerText = "BAIXANDO...";
+            btn.disabled = true;
+            if (window.chrome && window.chrome.webview) {
+                window.chrome.webview.postMessage('internal://start_update');
+            }
+        }
+
+        async function checkUpdates() {
+            const url = `https://api.github.com/repos/${GITHUB_USER}/NxsHub/contents/version.txt`;
+            try {
+                const response = await fetch(url, {
+                    headers: { 
+                        'Authorization': `token ${GITHUB_TOKEN}`,
+                        'Accept': 'application/vnd.github.v3.raw'
+                    }
+                });
+                if (response.ok) {
+                    const latestVersion = (await response.text()).trim();
+                    if (latestVersion !== NXS_VERSION) {
+                        document.getElementById('update-modal').style.display = 'flex';
+                    }
+                }
+            } catch (e) { console.error("Update check failed"); }
+        }
+
+        checkUpdates();
+    </script>
+</body>
+</html>
