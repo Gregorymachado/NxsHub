@@ -1,6 +1,6 @@
 const NXS_VERSION = "1.4";
 const GITHUB_USER = "Gregorymachado";
-const GITHUB_TOKEN = "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";
+const GITHUB_TOKEN = window.env.GITHUB_TOKEN;
 
 let isSyncing = false;
 window.currentUser = "";

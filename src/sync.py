@@ -4,6 +4,9 @@ import sys
 import os
 import logging
 import re
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 if getattr(sys, 'frozen', False):
@@ -30,7 +33,7 @@ def log_debug(msg):
 
 
 BIN_ID = "6979a419d0ea881f408c44f1"
-API_KEY = "$2a$10$XiI94plwfqDtl2GtU5H6Ou/5qCp8p7JIu0pUPKMtIjrtj88zOakuK"
+API_KEY = os.getenv('JSONBIN_API_KEY')
 URL = f"https://api.jsonbin.io/v3/b/{BIN_ID}"
 HEADERS = {"X-Master-Key": API_KEY, "Content-Type": "application/json"}
 

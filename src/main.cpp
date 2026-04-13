@@ -13,6 +13,7 @@
 #include <thread>
 #include <algorithm>
 #include <filesystem>
+#include <unordered_map>
 #include "WebView2.h"
 #include "WebView2EnvironmentOptions.h"
 
@@ -359,6 +360,31 @@ int APIENTRY wWinMain(HINSTANCE hI, HINSTANCE, LPWSTR, int nS) {
                             }
                             return S_OK;
                         }).Get(), nullptr);
+
+                    // Load .env and create config.js
+                    std::unordered_map<std::string, std::string> envMap;
+                    std::ifstream envFile((GetExecutableDir() + L".env"));
+                    if (envFile.is_open()) {
+                        std::string line;
+                        while (std::getline(envFile, line)) {
+                            size_t pos = line.find('=');
+                            if (pos != std::string::npos) {
+                                std::string key = line.substr(0, pos);
+                                std::string value = line.substr(pos + 1);
+                                envMap[key] = value;
+                            }
+                        }
+                        envFile.close();
+                    }
+                    std::ofstream configFile((GetExecutableDir() + L"src\\config.js"));
+                    if (configFile.is_open()) {
+                        configFile << "window.env = {\n";
+                        for (auto& p : envMap) {
+                            configFile << "  " << p.first << ": '" << p.second << "',\n";
+                        }
+                        configFile << "};\n";
+                        configFile.close();
+                    }
 
                     webview->Navigate((L"file:///" + GetUIPath()).c_str());
                 }

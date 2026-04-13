@@ -63,7 +63,7 @@ var appConfig = {
         {
             "name": "SBT",
             "url": "https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8",
-            "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7968db4b-08a8-4a7e-8a7d-7e8e2debd061/deypuf4-4a68ad24-1708-4fb2-89ff-0b5d61722fe9.png/v1/fill/w_1192,h_670,q_70,strp/sbt_logo_2021_globo_concept_cinema_4d_by_cinematronico_deypuf4-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzc5NjhkYjRiLTA4YTgtNGE3ZS04YTdkLTdlOGUyZGViZDA2MS9kZXlwdWY0LTRhNjhhZDI0LTE3MDgtNGZiMi04OWZmLTBiNWQ2MTcyMmZlOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.laspi0OJv2gpigrb-rkUX-5pbaJ66qOkKKkECPUaeQs"
+            "icon": `https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7968db4b-08a8-4a7e-8a7d-7e8e2debd061/deypuf4-4a68ad24-1708-4fb2-89ff-0b5d61722fe9.png/v1/fill/w_1192,h_670,q_70,strp/sbt_logo_2021_globo_concept_cinema_4d_by_cinematronico_deypuf4-pre.jpg?token=${window.env.IMAGE_TOKEN}`
         },
         {
             "name": "ESPN",
@@ -77,12 +77,12 @@ var appConfig = {
         },
         {
             "name": "CARTOON NETWORK",
-            "url": "https://origin-05.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.ts.m3u8?token=roku-t0k3n-v3r1fy1ng|UA=Roku/DVP-9.10 (049.10E04111A)",
+            "url": `https://origin-05.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.ts.m3u8?token=${window.env.STREAM_TOKEN}|UA=Roku/DVP-9.10 (049.10E04111A)`,
             "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/960px-Cartoon_network_modified_logo.PNG"
         },
         {
             "name": "DISCOVERY",
-            "url": "https://origin-05.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8?token=roku-t0k3n-v3r1fy1ng|UA=Roku/DVP-9.10 (049.10E04111A)",
+            "url": `https://origin-05.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8?token=${window.env.STREAM_TOKEN}|UA=Roku/DVP-9.10 (049.10E04111A)`,
             "icon": "https://media.licdn.com/dms/image/v2/C5612AQE6aEFNu40pUw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1598567344916?e=2147483647&v=beta&t=ozhlZP80vAaPIOB8wiyPMGxmjwPJsFUevJv0REOJGs4"
         },
         {

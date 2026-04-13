@@ -4,7 +4,7 @@ NXS_DATA/
 EBWebView/
 debug.log
 
-# Build e Binários
+# Build e Binï¿½rios
 build/
 *.obj
 *.pdb
@@ -14,3 +14,5 @@ build/
 # Ferramentas e Configs Locais
 tools/
 sync_in.json
+# Secrets
+.env
