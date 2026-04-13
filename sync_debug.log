@@ -1,0 +1,1034 @@
+2026-02-25 04:56:34,651 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-02-25 04:56:34,652 - [DEBUG] - Executando: presence
+2026-02-25 04:56:34,653 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-02-25 04:56:35,570 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-02-25 04:56:36,111 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-02-25 04:56:37,324 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-02-25 04:57:36,908 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-02-25 04:57:36,909 - [DEBUG] - Executando: presence
+2026-02-25 04:57:36,910 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-02-25 04:57:37,476 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-02-25 04:57:38,086 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-02-25 04:57:38,876 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-11 11:32:25,871 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-11 11:32:25,872 - [DEBUG] - Executando: presence
+2026-03-11 11:32:25,873 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-11 11:32:26,950 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-11 11:32:27,663 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-11 11:32:29,352 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-11 11:32:37,977 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-11 11:32:37,977 - [DEBUG] - Executando: presence
+2026-03-11 11:32:37,979 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-11 11:32:38,598 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-11 11:32:39,320 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-11 11:32:40,263 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-11 11:32:42,032 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-11 11:32:42,032 - [DEBUG] - Executando: presence
+2026-03-11 11:32:42,033 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-11 11:32:43,040 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-11 11:32:43,756 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-11 11:32:44,717 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-11 11:32:45,596 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-16 08:26:12,340 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-16 08:26:12,341 - [DEBUG] - Executando: presence
+2026-03-16 08:26:12,342 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-16 08:26:13,404 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-16 08:26:14,119 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-16 08:26:15,533 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-16 08:27:51,642 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-16 08:27:51,642 - [DEBUG] - Executando: setup_profile
+2026-03-16 08:27:51,643 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-16 08:27:52,622 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-16 08:27:53,339 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-16 08:27:54,754 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 01:46:45,679 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 01:46:45,680 - [DEBUG] - Executando: presence
+2026-03-23 01:46:45,682 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 01:46:46,611 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 01:46:47,227 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 01:46:48,452 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 11:56:16,831 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 11:56:19,995 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 11:56:19,996 - [DEBUG] - Executando: presence
+2026-03-23 11:56:19,997 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:20,666 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 11:56:21,270 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:22,214 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 11:56:24,086 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 11:56:24,087 - [DEBUG] - Executando: presence
+2026-03-23 11:56:24,088 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:24,702 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 11:56:25,384 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:26,173 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 11:56:27,223 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 11:56:29,367 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 11:56:29,367 - [DEBUG] - Executando: presence
+2026-03-23 11:56:29,368 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:29,968 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 11:56:30,637 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:31,395 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 11:56:33,389 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 11:56:33,390 - [DEBUG] - Executando: presence
+2026-03-23 11:56:33,391 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:33,985 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 11:56:34,589 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:56:35,440 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 11:57:00,735 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 11:57:00,735 - [DEBUG] - Executando: sync_all
+2026-03-23 11:57:00,737 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:57:03,904 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 11:57:04,587 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 11:57:06,972 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 12:20:01,749 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 12:20:01,750 - [DEBUG] - Executando: presence
+2026-03-23 12:20:01,751 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 12:20:02,416 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 12:20:03,019 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 12:20:04,413 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 12:33:49,321 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 12:33:49,322 - [DEBUG] - Executando: presence
+2026-03-23 12:33:49,323 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 12:33:50,950 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 12:33:51,635 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 12:33:53,287 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 13:12:26,681 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 13:12:26,682 - [DEBUG] - Executando: presence
+2026-03-23 13:12:26,684 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 13:12:29,202 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 13:12:29,768 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 13:12:32,501 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-23 16:42:30,942 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-23 16:42:30,943 - [DEBUG] - Executando: presence
+2026-03-23 16:42:30,944 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 16:42:31,579 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-23 16:42:32,125 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-23 16:42:33,148 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 01:59:59,418 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 01:59:59,419 - [DEBUG] - Executando: presence
+2026-03-24 01:59:59,421 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:00:00,317 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:00:00,830 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:00:02,061 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:02:43,952 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:02:43,952 - [DEBUG] - Executando: presence
+2026-03-24 02:02:43,954 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:02:44,793 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:02:45,332 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:02:46,581 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:04:31,579 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:04:31,579 - [DEBUG] - Executando: presence
+2026-03-24 02:04:31,581 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:04:32,145 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:04:32,686 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:04:33,513 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:05:44,729 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:05:44,729 - [DEBUG] - Executando: presence
+2026-03-24 02:05:44,731 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:05:45,421 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:05:45,960 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:05:46,739 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:09:32,902 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:09:32,902 - [DEBUG] - Executando: presence
+2026-03-24 02:09:32,903 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:09:33,465 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:09:34,008 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:09:34,944 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:09:49,186 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:09:49,187 - [DEBUG] - Executando: presence
+2026-03-24 02:09:49,188 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:09:49,736 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:09:50,296 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:09:51,098 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:11:56,701 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:11:56,702 - [DEBUG] - Executando: presence
+2026-03-24 02:11:56,703 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:11:57,372 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:11:57,938 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:11:58,975 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:12:54,362 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:12:54,362 - [DEBUG] - Executando: presence
+2026-03-24 02:12:54,364 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:12:54,936 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:12:55,566 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:12:56,406 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:12:56,705 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:12:59,454 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:12:59,454 - [DEBUG] - Executando: presence
+2026-03-24 02:12:59,456 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:13:00,022 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:13:00,656 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:13:01,462 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:13:18,908 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:13:18,909 - [DEBUG] - Executando: presence
+2026-03-24 02:13:18,910 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:13:19,477 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:13:20,105 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:13:21,138 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:18:00,130 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:18:00,130 - [DEBUG] - Executando: presence
+2026-03-24 02:18:00,132 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:18:00,773 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:18:01,313 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:18:02,561 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:31:13,311 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:31:13,312 - [DEBUG] - Executando: presence
+2026-03-24 02:31:13,313 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:31:13,997 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:31:14,567 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:31:15,840 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:31:17,727 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:31:17,727 - [DEBUG] - Executando: presence
+2026-03-24 02:31:17,729 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:31:18,293 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:31:18,859 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:31:19,672 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:40:07,447 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:40:07,447 - [DEBUG] - Executando: presence
+2026-03-24 02:40:07,449 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:40:08,099 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:40:08,737 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:40:09,796 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:42:19,024 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:42:19,025 - [DEBUG] - Executando: presence
+2026-03-24 02:42:19,026 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:42:19,878 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:42:20,487 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:42:21,691 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:43:23,988 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:43:23,988 - [DEBUG] - Executando: presence
+2026-03-24 02:43:23,989 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:43:24,581 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:43:25,216 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:43:26,806 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:57:38,608 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:57:38,609 - [DEBUG] - Executando: presence
+2026-03-24 02:57:38,611 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:57:39,553 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:57:40,119 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:57:41,431 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:58:25,632 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:58:25,633 - [DEBUG] - Executando: presence
+2026-03-24 02:58:25,634 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:58:26,225 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:58:26,791 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:58:27,649 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 02:58:55,340 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 02:58:55,340 - [DEBUG] - Executando: presence
+2026-03-24 02:58:55,341 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:58:55,896 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 02:58:56,461 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 02:58:57,259 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 03:02:59,209 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 03:02:59,209 - [DEBUG] - Executando: presence
+2026-03-24 03:02:59,211 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:02:59,857 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 03:03:00,396 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:03:01,690 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 03:03:08,293 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 03:03:08,294 - [DEBUG] - Executando: presence
+2026-03-24 03:03:08,295 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:03:08,846 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 03:03:09,382 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:03:10,211 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 03:03:33,145 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 03:03:33,145 - [DEBUG] - Executando: presence
+2026-03-24 03:03:33,146 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:03:33,698 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 03:03:34,235 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:03:35,013 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 03:05:04,864 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 03:05:04,864 - [DEBUG] - Executando: presence
+2026-03-24 03:05:04,866 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:05:05,696 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 03:05:06,299 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:05:07,799 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 03:11:24,181 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 03:11:24,181 - [DEBUG] - Executando: presence
+2026-03-24 03:11:24,182 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:11:25,138 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 03:11:25,703 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 03:11:27,005 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:11:12,238 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:11:12,238 - [DEBUG] - Executando: presence
+2026-03-24 04:11:12,240 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:11:13,150 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:11:13,689 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:11:14,927 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:19:29,786 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:19:29,786 - [DEBUG] - Executando: presence
+2026-03-24 04:19:29,787 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:19:30,701 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:19:31,302 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:19:32,593 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:23:08,534 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:23:08,535 - [DEBUG] - Executando: presence
+2026-03-24 04:23:08,536 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:23:09,404 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:23:10,023 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:23:11,292 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:23:36,237 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:23:36,237 - [DEBUG] - Executando: presence
+2026-03-24 04:23:36,239 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:23:36,795 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:23:37,351 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:23:38,186 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:24:23,706 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:24:23,707 - [DEBUG] - Executando: presence
+2026-03-24 04:24:23,708 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:24:24,278 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:24:24,835 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:24:25,633 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:25:30,625 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:25:30,625 - [DEBUG] - Executando: presence
+2026-03-24 04:25:30,627 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:25:31,281 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:25:31,837 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:25:32,619 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:26:42,538 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:26:42,538 - [DEBUG] - Executando: presence
+2026-03-24 04:26:42,540 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:26:43,378 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:26:43,934 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:26:45,227 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:27:21,718 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:27:21,718 - [DEBUG] - Executando: presence
+2026-03-24 04:27:21,720 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:27:22,285 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:27:22,842 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:27:23,664 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:30:36,797 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:30:36,797 - [DEBUG] - Executando: presence
+2026-03-24 04:30:36,799 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:30:37,685 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:30:38,198 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:30:39,407 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:31:48,857 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:31:48,857 - [DEBUG] - Executando: presence
+2026-03-24 04:31:48,859 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:31:49,395 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:31:49,971 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:31:50,762 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:31:53,833 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:31:53,833 - [DEBUG] - Executando: presence
+2026-03-24 04:31:53,835 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:31:54,362 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:31:54,875 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:31:55,637 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:34:36,559 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:34:36,559 - [DEBUG] - Executando: presence
+2026-03-24 04:34:36,561 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:34:37,385 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:34:37,923 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:34:39,161 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:35:28,874 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:35:28,875 - [DEBUG] - Executando: presence
+2026-03-24 04:35:28,876 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:35:29,449 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:35:29,987 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:35:30,819 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:36:28,085 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:36:28,085 - [DEBUG] - Executando: presence
+2026-03-24 04:36:28,087 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:28,744 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:36:29,345 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:30,147 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:36:30,601 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:36:31,689 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:36:31,689 - [DEBUG] - Executando: presence
+2026-03-24 04:36:31,691 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:32,238 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:36:32,373 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:36:32,373 - [DEBUG] - Executando: presence
+2026-03-24 04:36:32,375 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:32,776 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:33,143 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:36:33,143 - [DEBUG] - Executando: presence
+2026-03-24 04:36:33,145 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:33,243 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:36:33,542 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:36:33,801 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:33,825 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 04:36:33,967 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 04:36:34,503 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 04:36:34,572 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 04:36:35,783 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 14:44:35,601 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 14:44:35,601 - [DEBUG] - Executando: presence
+2026-03-24 14:44:35,602 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 14:44:36,294 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 14:44:36,890 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 14:44:38,638 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 403 None
+2026-03-24 15:04:26,440 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:04:26,441 - [DEBUG] - Executando: setup_profile
+2026-03-24 15:04:26,442 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:04:27,915 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 15:04:45,324 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:04:45,324 - [DEBUG] - Executando: presence
+2026-03-24 15:04:45,326 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:04:46,053 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 15:04:48,990 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:04:48,990 - [DEBUG] - Executando: presence
+2026-03-24 15:04:48,991 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:04:50,212 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 15:04:52,355 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:04:52,355 - [DEBUG] - Executando: presence
+2026-03-24 15:04:52,356 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:04:53,015 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 15:07:34,601 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:07:34,601 - [DEBUG] - Executando: presence
+2026-03-24 15:07:34,602 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:07:35,228 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 15:07:49,047 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:07:49,048 - [DEBUG] - Executando: presence
+2026-03-24 15:07:49,049 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:07:49,603 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 15:07:58,266 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:07:58,267 - [DEBUG] - Executando: presence
+2026-03-24 15:07:58,268 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:07:58,821 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 15:08:02,405 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 15:08:02,405 - [DEBUG] - Executando: presence
+2026-03-24 15:08:02,406 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 15:08:02,974 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 16:23:35,283 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 16:23:35,284 - [DEBUG] - Executando: presence
+2026-03-24 16:23:35,286 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 16:23:35,945 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 16:23:40,384 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 16:23:40,384 - [DEBUG] - Executando: presence
+2026-03-24 16:23:40,481 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 16:23:41,062 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 16:24:10,705 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 16:24:10,705 - [DEBUG] - Executando: presence
+2026-03-24 16:24:10,707 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 16:24:11,280 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 16:24:12,504 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 16:24:18,140 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 16:24:18,141 - [DEBUG] - Executando: presence
+2026-03-24 16:24:18,142 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 16:24:18,717 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-24 16:24:42,488 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-24 16:24:42,489 - [DEBUG] - Executando: presence
+2026-03-24 16:24:42,490 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-24 16:24:43,077 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 00:12:01,171 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 00:12:01,171 - [DEBUG] - Executando: presence
+2026-03-25 00:12:01,173 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:12:02,150 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 00:18:42,570 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 00:18:42,570 - [DEBUG] - Executando: presence
+2026-03-25 00:18:42,572 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:18:43,417 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 00:26:39,456 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 00:26:39,456 - [DEBUG] - Executando: presence
+2026-03-25 00:26:39,458 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:26:40,353 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 00:26:51,697 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 00:26:51,697 - [DEBUG] - Executando: presence
+2026-03-25 00:26:51,698 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:26:52,249 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 00:26:57,409 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 00:26:57,416 - [DEBUG] - Executando: sync_all
+2026-03-25 00:26:57,418 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:26:57,964 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 00:26:58,526 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:26:59,381 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 00:31:49,057 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 00:31:49,066 - [DEBUG] - Executando: presence
+2026-03-25 00:31:49,068 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:31:49,975 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 00:31:50,534 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 00:31:51,916 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:11:25,387 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:11:25,394 - [DEBUG] - Executando: presence
+2026-03-25 01:11:25,396 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:11:26,275 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:11:26,874 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:11:27,727 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:11:32,470 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:11:32,477 - [DEBUG] - Executando: presence
+2026-03-25 01:11:32,478 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:11:33,306 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:11:33,905 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:11:34,757 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:18:55,780 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:18:55,788 - [DEBUG] - Executando: presence
+2026-03-25 01:18:55,790 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:18:56,654 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:18:57,240 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:18:58,241 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:19:15,876 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:19:15,884 - [DEBUG] - Executando: presence
+2026-03-25 01:19:15,886 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:19:16,710 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:19:17,324 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:19:18,171 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:21:09,342 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:21:09,351 - [DEBUG] - Executando: sync_all
+2026-03-25 01:21:09,353 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:21:09,639 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:21:09,647 - [DEBUG] - Executando: sync_all
+2026-03-25 01:21:09,648 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:21:10,190 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:21:10,479 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:21:10,744 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:21:11,053 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:21:11,587 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:21:11,983 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:22:01,074 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:22:01,081 - [DEBUG] - Executando: sync_all
+2026-03-25 01:22:01,083 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:01,637 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:22:01,645 - [DEBUG] - FALHA: Unterminated string starting at: line 1 column 46 (char 45)
+2026-03-25 01:22:01,915 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:22:02,440 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:22:02,452 - [DEBUG] - Executando: sync_all
+2026-03-25 01:22:02,455 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:02,477 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:02,924 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:22:02,932 - [DEBUG] - Executando: sync_all
+2026-03-25 01:22:02,934 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:03,066 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:22:03,252 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:22:03,261 - [DEBUG] - Executando: sync_all
+2026-03-25 01:22:03,262 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:03,544 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:22:03,553 - [DEBUG] - Executando: sync_all
+2026-03-25 01:22:03,555 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:03,625 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:03,637 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:22:03,776 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:22:04,079 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:22:04,145 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:22:04,375 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:04,641 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:04,681 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:04,767 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:22:05,654 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:22:05,656 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:22:05,680 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:22:14,521 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:22:14,529 - [DEBUG] - Executando: presence
+2026-03-25 01:22:14,531 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:15,360 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:22:15,908 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:22:16,763 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:24:16,808 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:24:16,818 - [DEBUG] - Executando: sync_all
+2026-03-25 01:24:16,820 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:24:17,088 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:24:17,099 - [DEBUG] - Executando: sync_all
+2026-03-25 01:24:17,100 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:24:17,451 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:24:17,922 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:24:17,991 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:24:18,462 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:24:18,788 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:24:19,321 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:20,275 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:20,283 - [DEBUG] - Executando: sync_all
+2026-03-25 01:25:20,285 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:20,596 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:20,604 - [DEBUG] - Executando: sync_all
+2026-03-25 01:25:20,606 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:20,892 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:21,435 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:21,445 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:21,994 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:22,589 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:22,902 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:28,130 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:28,130 - [DEBUG] - Executando: get_config
+2026-03-25 01:25:28,584 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:28,594 - [DEBUG] - Executando: sync_all
+2026-03-25 01:25:28,595 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:28,903 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:28,911 - [DEBUG] - Executando: sync_all
+2026-03-25 01:25:28,913 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:29,434 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:29,752 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:29,992 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:29,992 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:30,002 - [DEBUG] - Executando: sync_all
+2026-03-25 01:25:30,003 - [DEBUG] - Executando: sync_all
+2026-03-25 01:25:30,004 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:30,005 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:30,036 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:30,287 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:30,620 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:30,626 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:30,646 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:30,656 - [DEBUG] - Executando: sync_all
+2026-03-25 01:25:30,657 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:30,893 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:31,002 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:31,185 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:31,358 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:31,486 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:31,489 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:32,002 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:32,591 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:33,599 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:25:48,555 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:25:48,562 - [DEBUG] - Executando: presence
+2026-03-25 01:25:48,564 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:49,367 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:25:49,914 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:25:50,765 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:27:11,696 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:27:11,703 - [DEBUG] - Executando: sync_all
+2026-03-25 01:27:11,705 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:27:11,924 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:27:11,932 - [DEBUG] - Executando: sync_all
+2026-03-25 01:27:11,933 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:27:12,532 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:27:12,743 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:27:13,064 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:27:13,278 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:27:13,923 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:27:14,251 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:28:23,532 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:28:23,540 - [DEBUG] - Executando: presence
+2026-03-25 01:28:23,541 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:28:24,381 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:28:24,993 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:28:25,940 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:28:40,360 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:28:40,368 - [DEBUG] - Executando: presence
+2026-03-25 01:28:40,369 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:28:41,189 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:28:41,189 - [DEBUG] - FALHA: Expecting value: line 1 column 1 (char 0)
+2026-03-25 01:28:41,201 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:28:41,734 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:28:42,366 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:28:42,594 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:29:07,692 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:29:07,692 - [DEBUG] - FALHA: Expecting value: line 1 column 1 (char 0)
+2026-03-25 01:29:10,344 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:29:10,352 - [DEBUG] - Executando: presence
+2026-03-25 01:29:10,353 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:29:11,186 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:29:11,795 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:29:12,640 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:29:14,843 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:29:14,851 - [DEBUG] - Executando: presence
+2026-03-25 01:29:14,853 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:29:15,685 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:29:16,243 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:29:17,129 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:29:20,529 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:29:20,539 - [DEBUG] - Executando: presence
+2026-03-25 01:29:20,541 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:29:21,366 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:29:21,930 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:29:22,788 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:30:24,961 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:30:24,968 - [DEBUG] - Executando: presence
+2026-03-25 01:30:24,970 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:30:25,834 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:30:26,407 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:30:27,247 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:30:39,182 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:30:39,190 - [DEBUG] - Executando: presence
+2026-03-25 01:30:39,192 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:30:40,014 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:30:40,735 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:30:41,591 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:30:48,905 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:30:48,913 - [DEBUG] - Executando: presence
+2026-03-25 01:30:48,914 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:30:49,763 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:30:50,333 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:30:52,023 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:31:39,618 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:31:39,626 - [DEBUG] - Executando: presence
+2026-03-25 01:31:39,627 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:31:40,474 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:31:41,091 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:31:41,790 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:31:41,797 - [DEBUG] - FALHA: Unterminated string starting at: line 1 column 46 (char 45)
+2026-03-25 01:31:41,963 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:31:42,110 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:31:42,116 - [DEBUG] - FALHA: Unterminated string starting at: line 1 column 46 (char 45)
+2026-03-25 01:31:42,487 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:31:42,496 - [DEBUG] - Executando: presence
+2026-03-25 01:31:42,497 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:31:42,873 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:31:43,316 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:31:43,863 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:31:44,680 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:32:46,987 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:32:46,995 - [DEBUG] - Executando: presence
+2026-03-25 01:32:46,996 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:32:47,843 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:32:48,391 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:32:49,244 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:33:35,620 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:33:35,627 - [DEBUG] - Executando: presence
+2026-03-25 01:33:35,629 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:33:36,449 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:33:37,049 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:33:37,883 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:33:46,194 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:33:46,202 - [DEBUG] - Executando: presence
+2026-03-25 01:33:46,204 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:33:47,028 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:33:47,594 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:33:48,687 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:34:37,814 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:34:37,822 - [DEBUG] - Executando: presence
+2026-03-25 01:34:37,824 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:34:38,437 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:34:38,992 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:34:40,336 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:34:40,344 - [DEBUG] - Executando: presence
+2026-03-25 01:34:40,346 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:34:40,495 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:34:41,194 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:34:41,809 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:34:43,226 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:35:29,053 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:35:29,061 - [DEBUG] - Executando: presence
+2026-03-25 01:35:29,063 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:35:29,893 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:35:30,442 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:35:31,292 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:35:31,571 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:35:33,033 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:40:49,146 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:40:49,154 - [DEBUG] - Executando: presence
+2026-03-25 01:40:49,156 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:40:50,049 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:40:50,592 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:40:51,445 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:41:27,286 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:41:27,294 - [DEBUG] - Executando: presence
+2026-03-25 01:41:27,296 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:41:28,101 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:41:28,688 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:41:29,788 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:44:13,287 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:44:13,294 - [DEBUG] - Executando: presence
+2026-03-25 01:44:13,296 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:44:14,107 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:44:14,628 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:44:14,986 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:44:14,994 - [DEBUG] - Executando: presence
+2026-03-25 01:44:14,996 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:44:15,481 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:44:15,882 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:44:16,443 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:44:17,278 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:46:33,935 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:46:33,942 - [DEBUG] - Executando: sync_all
+2026-03-25 01:46:33,944 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:34,178 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:46:34,187 - [DEBUG] - Executando: sync_all
+2026-03-25 01:46:34,188 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:34,874 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:46:34,943 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:46:34,953 - [DEBUG] - Executando: sync_all
+2026-03-25 01:46:34,955 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:35,013 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:46:35,245 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:46:35,255 - [DEBUG] - Executando: sync_all
+2026-03-25 01:46:35,257 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:35,442 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:35,558 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:35,833 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:46:35,846 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:46:36,189 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:36,295 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:46:36,423 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:37,363 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:46:38,510 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:46:38,983 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:46:46,013 - [DEBUG] - FALHA: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2026-03-25 01:46:56,504 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:46:56,512 - [DEBUG] - Executando: sync_all
+2026-03-25 01:46:56,514 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:57,045 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:46:57,068 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:46:57,668 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:46:58,510 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:47:01,193 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:47:01,201 - [DEBUG] - Executando: presence
+2026-03-25 01:47:01,202 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:47:02,020 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:47:02,559 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:47:03,394 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:05,565 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:05,574 - [DEBUG] - Executando: presence
+2026-03-25 01:49:05,575 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:06,409 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:06,955 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:08,089 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:11,933 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:11,941 - [DEBUG] - Executando: presence
+2026-03-25 01:49:11,943 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:12,765 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:13,365 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:14,210 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:16,067 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:16,075 - [DEBUG] - Executando: presence
+2026-03-25 01:49:16,077 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:16,943 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:17,513 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:18,343 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:21,476 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:21,484 - [DEBUG] - Executando: sync_all
+2026-03-25 01:49:21,486 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:21,761 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:21,768 - [DEBUG] - Executando: sync_all
+2026-03-25 01:49:21,770 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:22,294 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:22,591 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:22,845 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:23,145 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:23,917 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:24,078 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:26,149 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:26,157 - [DEBUG] - Executando: presence
+2026-03-25 01:49:26,159 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:26,997 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:27,546 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:28,359 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:28,369 - [DEBUG] - Executando: presence
+2026-03-25 01:49:28,370 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:28,378 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:29,197 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:29,751 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:30,597 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:35,641 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:35,649 - [DEBUG] - Executando: presence
+2026-03-25 01:49:35,651 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:36,471 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:37,074 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:37,956 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:38,170 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:40,120 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:40,128 - [DEBUG] - Executando: presence
+2026-03-25 01:49:40,130 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:40,989 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:41,545 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:41,993 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:49:42,003 - [DEBUG] - Executando: presence
+2026-03-25 01:49:42,004 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:42,655 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:49:42,856 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:49:43,404 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:49:44,429 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:50:04,734 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:50:04,741 - [DEBUG] - Executando: presence
+2026-03-25 01:50:04,743 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:50:05,569 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:50:06,131 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:50:06,971 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:50:34,650 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:50:34,660 - [DEBUG] - Executando: presence
+2026-03-25 01:50:34,661 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:50:35,520 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:50:36,098 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:50:36,945 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:53:51,150 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:53:51,162 - [DEBUG] - Executando: presence
+2026-03-25 01:53:51,164 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:53:51,613 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:53:51,621 - [DEBUG] - Executando: presence
+2026-03-25 01:53:51,623 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:53:52,077 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:53:52,476 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:53:52,624 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:53:53,033 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:53:53,917 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:53:54,018 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:54:44,123 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:54:44,125 - [DEBUG] - FALHA: Unterminated string starting at: line 1 column 46 (char 45)
+2026-03-25 01:54:44,987 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:55:56,530 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:55:56,538 - [DEBUG] - Executando: presence
+2026-03-25 01:55:56,539 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:55:57,112 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:55:57,658 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:55:57,666 - [DEBUG] - Executando: presence
+2026-03-25 01:55:57,668 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:55:57,668 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:55:58,251 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:55:58,793 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:55:58,805 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:55:59,774 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:56:29,899 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:56:29,907 - [DEBUG] - Executando: presence
+2026-03-25 01:56:29,909 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:56:30,742 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:56:31,282 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:56:32,366 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:56:40,725 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:56:40,733 - [DEBUG] - Executando: presence
+2026-03-25 01:56:40,735 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:56:41,301 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:56:41,844 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:56:42,693 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:56:44,685 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:56:44,693 - [DEBUG] - Executando: presence
+2026-03-25 01:56:44,695 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:56:45,259 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:56:45,813 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:56:46,643 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:57:31,390 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:57:31,398 - [DEBUG] - Executando: presence
+2026-03-25 01:57:31,400 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:57:31,957 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:57:32,490 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:57:32,806 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:57:32,816 - [DEBUG] - Executando: presence
+2026-03-25 01:57:32,818 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:57:33,447 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:57:33,615 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:57:33,725 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:57:34,283 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:57:34,965 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:59:27,807 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:59:27,817 - [DEBUG] - Executando: presence
+2026-03-25 01:59:27,818 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:59:28,451 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:59:29,030 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:59:30,167 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 01:59:33,374 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 01:59:33,381 - [DEBUG] - Executando: presence
+2026-03-25 01:59:33,382 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:59:34,212 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 01:59:34,788 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 01:59:36,106 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:08:41,333 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:08:41,341 - [DEBUG] - Executando: presence
+2026-03-25 02:08:41,342 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:08:42,247 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:08:42,819 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:08:43,656 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:10:52,839 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:10:52,847 - [DEBUG] - Executando: presence
+2026-03-25 02:10:52,849 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:10:53,654 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:10:54,243 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:10:55,069 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:15:31,541 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:15:31,551 - [DEBUG] - Executando: presence
+2026-03-25 02:15:31,553 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:15:32,161 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:15:32,721 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:15:33,541 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:18:44,775 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:18:44,783 - [DEBUG] - Executando: presence
+2026-03-25 02:18:44,784 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:18:45,616 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:18:46,216 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:18:47,047 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:20:44,804 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:20:44,812 - [DEBUG] - Executando: presence
+2026-03-25 02:20:44,813 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:20:45,426 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:20:45,986 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:20:47,087 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:24:02,464 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:24:02,472 - [DEBUG] - Executando: presence
+2026-03-25 02:24:02,474 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:24:03,317 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:24:03,879 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:24:04,647 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:24:49,718 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:24:49,726 - [DEBUG] - Executando: presence
+2026-03-25 02:24:49,727 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:24:50,290 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:24:50,371 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:24:50,379 - [DEBUG] - Executando: presence
+2026-03-25 02:24:50,381 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:24:50,853 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:24:51,203 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:24:51,802 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:24:51,903 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:24:52,642 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 02:25:01,387 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 02:25:01,395 - [DEBUG] - Executando: presence
+2026-03-25 02:25:01,396 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:25:02,221 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 02:25:02,785 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 02:25:03,626 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 04:19:14,852 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 04:19:14,860 - [DEBUG] - Executando: presence
+2026-03-25 04:19:14,862 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:19:15,478 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 04:19:16,017 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:19:16,911 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 04:25:57,764 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 04:25:57,772 - [DEBUG] - Executando: presence
+2026-03-25 04:25:57,773 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:25:58,405 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 04:25:58,964 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:26:00,412 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 04:43:07,696 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 04:43:07,704 - [DEBUG] - Executando: presence
+2026-03-25 04:43:07,706 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:43:08,640 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 04:43:09,241 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:43:10,052 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 04:46:20,195 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 04:46:20,203 - [DEBUG] - Executando: presence
+2026-03-25 04:46:20,204 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:46:20,832 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 04:46:21,386 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:46:22,438 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 04:56:39,659 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 04:56:39,672 - [DEBUG] - Executando: presence
+2026-03-25 04:56:39,674 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:56:40,568 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 04:56:41,168 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:56:42,024 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 04:56:45,676 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 04:56:45,685 - [DEBUG] - Executando: presence
+2026-03-25 04:56:45,686 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:56:46,516 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 04:56:47,077 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:56:48,376 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 04:58:34,186 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 04:58:34,194 - [DEBUG] - Executando: presence
+2026-03-25 04:58:34,196 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:58:35,051 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 04:58:35,583 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 04:58:36,429 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 05:00:57,888 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 05:00:57,896 - [DEBUG] - Executando: presence
+2026-03-25 05:00:57,897 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 05:00:58,546 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 05:00:59,117 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 05:01:00,429 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 16:43:15,968 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 16:43:15,976 - [DEBUG] - Executando: presence
+2026-03-25 16:43:15,977 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 16:43:16,609 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 16:43:17,146 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 16:43:17,972 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 19:00:58,721 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 19:00:58,730 - [DEBUG] - Executando: presence
+2026-03-25 19:00:58,731 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 19:00:59,361 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 19:00:59,912 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 19:01:01,450 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 19:01:45,326 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 19:01:45,334 - [DEBUG] - Executando: presence
+2026-03-25 19:01:45,335 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 19:01:45,914 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 19:01:46,439 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 19:01:47,614 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-25 19:01:51,183 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-25 19:01:51,191 - [DEBUG] - Executando: presence
+2026-03-25 19:01:51,192 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 19:01:52,040 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-25 19:01:52,610 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-25 19:01:53,571 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None
+2026-03-27 03:37:22,643 - [DEBUG] - --- MOTOR SYNC START (v1.5 DYNAMIC) ---
+2026-03-27 03:37:22,654 - [DEBUG] - Executando: presence
+2026-03-27 03:37:22,656 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-27 03:37:23,311 - [DEBUG] - https://api.jsonbin.io:443 "GET /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 200 None
+2026-03-27 03:37:23,830 - [DEBUG] - Starting new HTTPS connection (1): api.jsonbin.io:443
+2026-03-27 03:37:24,594 - [DEBUG] - https://api.jsonbin.io:443 "PUT /v3/b/6979a419d0ea881f408c44f1 HTTP/1.1" 413 None

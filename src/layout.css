@@ -1,0 +1,319 @@
+
+
+.main-wrapper {
+    width: 100%;
+    max-height: 100vh;
+    overflow-y: auto;
+    padding: 100px 20px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-wrapper::-webkit-scrollbar { 
+    display: none; 
+}
+
+h1 {
+    font-size: 72px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    margin: 0;
+    background: linear-gradient(to bottom, #fff 30%, #666 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 20px rgba(0, 210, 255, 0.4));
+}
+
+.hint {
+    color: var(--neon-blue);
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    opacity: 0.7;
+}
+
+
+.top-nav {
+    position: fixed;
+    top: 30px; 
+    left: 30px;
+    z-index: 1000;
+}
+
+.profile-trigger {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 6px 18px 6px 6px;
+    border-radius: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.profile-trigger:hover {
+    border-color: var(--neon-blue);
+    background: rgba(0, 210, 255, 0.15);
+    box-shadow: 0 0 15px rgba(0, 210, 255, 0.2);
+}
+
+#nav-profile-pic {
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--neon-blue);
+    background: #000;
+}
+
+#nav-username {
+    font-weight: 800;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    max-width: 1100px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.card {
+    width: calc(25% - 20px);
+    min-width: 220px;
+    height: 160px;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 24px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    transition: var(--transition);
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: translateY(-10px) scale(1.05);
+    border-color: var(--neon-blue);
+    background: rgba(0, 210, 255, 0.1);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 20px rgba(0, 210, 255, 0.2);
+}
+
+.card img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    border-radius: 12px;
+    filter: drop-shadow(0 0 10px rgba(0,0,0,0.5));
+}
+
+.card span {
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    color: #888;
+    text-transform: uppercase;
+}
+
+.card:hover span { 
+    color: #fff; 
+    text-shadow: 0 0 10px var(--neon-blue); 
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 20px;
+    color: rgba(255,255,255,0.2);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
+
+
+.dynamic-section {
+    width: 100%;
+    max-width: 1000px;
+    margin-bottom: 40px;
+}
+
+.section-title {
+    font-size: 18px;
+    font-weight: 900;
+    color: var(--neon-blue);
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.horizontal-list {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+}
+
+.horizontal-list::-webkit-scrollbar {
+    height: 4px;
+}
+
+.horizontal-list::-webkit-scrollbar-thumb {
+    background: var(--neon-blue);
+    border-radius: 10px;
+}
+
+
+
+#nxs-dashboard {
+    display: none;
+    position: fixed;
+    top: 0; 
+    left: 0; 
+    width: 100vw !important; 
+    height: 100vh !important;
+    background: rgba(5, 5, 10, 0.95);
+    backdrop-filter: blur(20px);
+    z-index: 50000;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.dash-container {
+    width: 950px !important;
+    height: 650px !important;
+    background: #0a0b10 !important;
+    border: 1px solid rgba(0, 210, 255, 0.3) !important;
+    border-radius: 24px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    overflow: hidden !important;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.8);
+    position: relative !important;
+}
+
+
+.dash-sidebar { 
+    width: 220px !important;
+    min-width: 220px !important;
+    background: rgba(255, 255, 255, 0.02) !important;
+    padding: 30px 15px;
+    display: flex !important;
+    flex-direction: column !important;
+    border-right: 1px solid rgba(255, 255, 255, 0.05) !important;
+    height: 100% !important;
+}
+
+
+.dash-content { 
+    flex: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    position: relative !important;
+    background: #0a0b10 !important;
+    height: 100% !important;
+}
+
+
+.profile-banner {
+    width: 100% !important;
+    height: 200px !important;
+    min-height: 200px !important;
+    max-height: 200px !important;
+    position: relative !important;
+    overflow: hidden !important;
+    display: block !important;
+}
+
+.profile-banner img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: block !important;
+}
+
+.banner-overlay {
+    position: absolute !important;
+    bottom: 0; 
+    left: 0;
+    width: 100% !important; 
+    height: 100% !important;
+    background: linear-gradient(to top, #0a0b10 5%, transparent 100%) !important;
+    pointer-events: none;
+}
+
+
+.profile-header-main {
+    padding: 0 30px !important;
+    margin-top: -60px !important;
+    display: flex !important;
+    align-items: flex-end !important;
+    gap: 20px !important;
+    position: relative !important;
+    z-index: 10 !important;
+}
+
+.profile-pic-large {
+    width: 120px !important;
+    height: 120px !important;
+    border-radius: 24px !important;
+    border: 5px solid #0a0b10 !important;
+    background: #000 !important;
+    object-fit: cover !important;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5) !important;
+}
+
+
+.profile-tabs {
+    display: flex !important;
+    gap: 25px !important;
+    padding: 20px 30px !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+}
+
+.dash-section {
+    padding: 20px 30px !important;
+    flex: 1 !important;
+    display: block !important;
+}
+
+
+.close-dash {
+    position: absolute !important;
+    top: 20px !important;
+    right: 25px !important;
+    z-index: 1000 !important;
+    font-size: 24px !important;
+    color: rgba(255,255,255,0.3) !important;
+    cursor: pointer !important;
+    transition: 0.3s !important;
+    background: none !important;
+    border: none !important;
+}
+
+.close-dash:hover {
+    color: #fff !important;
+    transform: rotate(90deg) !important;
+}

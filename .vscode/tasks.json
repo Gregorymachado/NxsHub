@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar NxsHub",
+            "type": "shell",
+            "command": "cl.exe",
+            "args": [
+                "/std:c++17",
+                "/EHsc",
+                "main.cpp",
+                "/I", "${workspaceFolder}/include",
+                "WebView2Loader.lib",
+                "/link",
+                "/OUT:NxsHub.exe",
+                "/SUBSYSTEM:WINDOWS"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$msCompile"],
+            "options": {
+                "env": {
+                    "PATH": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64;${env:PATH}"
+                }
+            }
+        }
+    ]
+}

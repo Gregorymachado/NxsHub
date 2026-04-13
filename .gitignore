@@ -1,0 +1,16 @@
+# Caches do WebView2 e Logs
+NXS_CACHE/
+NXS_DATA/
+EBWebView/
+debug.log
+
+# Build e Binários
+build/
+*.obj
+*.pdb
+*.exe
+*.res
+
+# Ferramentas e Configs Locais
+tools/
+sync_in.json
